@@ -7,7 +7,7 @@
  * de l'auteur est strictement interdite.
  * Pour contact : +221766297256
  *
- * Ce programme est protégé et reste la propriété exclusive de SHZDOW TECH ™
+ * Ce programme est protégé et reste la propriété exclusive de SHADOW TECH ™
  */
 require('./settings')
 const { Boom } = require('@hapi/boom')
